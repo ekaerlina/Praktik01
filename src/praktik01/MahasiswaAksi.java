@@ -16,5 +16,7 @@ public class MahasiswaAksi {
        Harry.nama="Eka Erlina Andayani";
        Harry.NPM="2010102050";
        Harry.IPK=3.8;
+       
+       Harry.cetakInfo();
     }
 }
