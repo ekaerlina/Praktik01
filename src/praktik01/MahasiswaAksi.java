@@ -10,7 +10,7 @@ package praktik01;
  * @author Bayu Kusuma
  */
 public class MahasiswaAksi {
-    pvsm
-        
+    public static void main(String[] args) {
+       Mahasiswa Harry = new Mahasiswa();        
     }
 }
