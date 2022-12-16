@@ -11,4 +11,13 @@ package praktik01;
  */
 public class Mahasiswa {
     
+    String nama;
+	String NPM;
+	double IPK;
+
+	Void cetakInfo(){
+	System.out.println("Nama : "+nama);
+	System.out.println("NPM  : "+NPM);
+	System.out.println("IPK  : "+IPK);
+  	}
 }
