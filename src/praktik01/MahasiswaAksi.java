@@ -12,5 +12,9 @@ package praktik01;
 public class MahasiswaAksi {
     public static void main(String[] args) {
        Mahasiswa Harry = new Mahasiswa();        
+       
+       Harry.nama="Eka Erlina Andayani";
+       Harry.NPM="2010102050";
+       Harry.IPK=3.8;
     }
 }
